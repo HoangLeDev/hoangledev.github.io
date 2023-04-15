@@ -1,3 +1,4 @@
+<body style="background-color:#0f826b;">
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Labrada&size=30&duration=1200&pause=300&color=F7C511&multiline=true&repeat=false&center=true&height=90&width=1080&lines=Hi,+I'm+Hoang+Le+(JohnnyLe)👋;Welcome+to+my+GitHub😎" alt="Typing SVG" /> 
 </p>
